@@ -8,9 +8,10 @@ using confusionresturant.Data;
 namespace confusionresturant.Migrations
 {
     [DbContext(typeof(CrContext))]
-    partial class CrContextModelSnapshot : ModelSnapshot
+    [Migration("20201104130837_New")]
+    partial class New
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")

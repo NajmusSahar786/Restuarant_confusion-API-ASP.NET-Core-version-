@@ -6,3 +6,14 @@ c:\Users\AHMED\Documents\confusionresturant\bin\Debug\netcoreapp1.1\confusionres
 c:\Users\AHMED\Documents\confusionresturant\obj\Debug\netcoreapp1.1\confusionresturant.AssemblyInfo.cs
 c:\Users\AHMED\Documents\confusionresturant\obj\Debug\netcoreapp1.1\confusionresturant.dll
 c:\Users\AHMED\Documents\confusionresturant\obj\Debug\netcoreapp1.1\confusionresturant.pdb
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\obj\Debug\netcoreapp1.1\confusionresturant.dll
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\obj\Debug\netcoreapp1.1\confusionresturant.pdb
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\obj\Debug\netcoreapp1.1\confusionresturant.csprojAssemblyReference.cache
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\obj\Debug\netcoreapp1.1\confusionresturant.csproj.CoreCompileInputs.cache
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\obj\Debug\netcoreapp1.1\confusionresturant.AssemblyInfoInputs.cache
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\obj\Debug\netcoreapp1.1\confusionresturant.AssemblyInfo.cs
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\bin\Debug\netcoreapp1.1\confusionresturant.deps.json
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\bin\Debug\netcoreapp1.1\confusionresturant.runtimeconfig.json
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\bin\Debug\netcoreapp1.1\confusionresturant.runtimeconfig.dev.json
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\bin\Debug\netcoreapp1.1\confusionresturant.dll
+F:\GitHub\Restuarant_confusion-API-ASP.NET-Core-version-\bin\Debug\netcoreapp1.1\confusionresturant.pdb

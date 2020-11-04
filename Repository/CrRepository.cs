@@ -61,5 +61,10 @@ namespace confusionresturant.Repository
                  .Cast<CrUser>()
                  .FirstOrDefault();
         }
+
+        public Comment GetCommentsByDish(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
